@@ -31,8 +31,3 @@ Formando em Ciencias da Computação pelo Centro Universitário União das Amér
 ### Status GitHub
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ryanmonteiro&layout=compact&bg_color=000&border_color=30A3DC&title_color=2aa889&text_color=599)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ryanmonteiro&theme=gotham&locale=pt_BR)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ryanmonteiro&bg_color=000000&color=599cab&line=2aa889&point=599cab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
