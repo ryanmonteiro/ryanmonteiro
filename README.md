@@ -28,6 +28,8 @@ Formando em Ciencias da Computação pelo Centro Universitário União das Amér
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
-### Status GitHub
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ryanmonteiro&layout=compact&bg_color=000&border_color=30A3DC&title_color=2aa889&text_color=599)
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ryanmonteiro&layout=compact&bg_color=000&border_color=30A3DC&title_color=2aa889&text_color=599" />
+</a> 
+</p>
