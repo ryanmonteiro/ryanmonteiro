@@ -29,6 +29,7 @@ Formando em Ciencias da Computação pelo Centro Universitário União das Amér
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5)
+![CCS 3](https://img.shields.io/badge/CSS%203-000?style=for-the-badge&logo=CSS3)
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
