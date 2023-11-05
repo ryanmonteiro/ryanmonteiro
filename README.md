@@ -25,7 +25,7 @@ Formando em Ciencias da Computação pelo Centro Universitário União das Amér
 ### Habilidades Técnicas
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c++)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5)
